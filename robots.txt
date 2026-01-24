@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emdiscussions.github.io/emd-blog/sitemap.xml

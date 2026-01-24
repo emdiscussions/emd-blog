@@ -1,2 +1,0 @@
-# emd-blog
-EMDiscussions Blog

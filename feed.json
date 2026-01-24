@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "EMDiscussions Blog",
+    "description": "",
+    "home_page_url": "https://emdiscussions.github.io/emd-blog",
+    "feed_url": "https://emdiscussions.github.io/emd-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "EMDiscussions"
+    },
+    "items": [
+        {
+            "id": "https://emdiscussions.github.io/emd-blog/test-post.html",
+            "url": "https://emdiscussions.github.io/emd-blog/test-post.html",
+            "title": "Test Post",
+            "summary": "This is the first post, to test 'stuff' is working, hopefully as intended!",
+            "content_html": "<p>This is the first post, to test 'stuff' is working, hopefully as intended!</p>\n<p> </p>",
+            "author": {
+                "name": "EMDiscussions"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-24T09:01:45+00:00",
+            "date_modified": "2026-01-24T09:01:45+00:00"
+        }
+    ]
+}

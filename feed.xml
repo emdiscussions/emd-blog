@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>EMDiscussions Blog</title>
+    <link href="https://emdiscussions.github.io/emd-blog/feed.xml" rel="self" />
+    <link href="https://emdiscussions.github.io/emd-blog" />
+    <updated>2026-01-24T09:01:45+00:00</updated>
+    <author>
+        <name>EMDiscussions</name>
+    </author>
+    <id>https://emdiscussions.github.io/emd-blog</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>EMDiscussions</name>
+        </author>
+        <link href="https://emdiscussions.github.io/emd-blog/test-post.html"/>
+        <id>https://emdiscussions.github.io/emd-blog/test-post.html</id>
+
+        <updated>2026-01-24T09:01:45+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is the first post, to test 'stuff' is working, hopefully as intended!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the first post, to test 'stuff' is working, hopefully as intended!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
