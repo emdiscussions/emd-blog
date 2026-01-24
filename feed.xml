@@ -3,7 +3,7 @@
     <title>EMDiscussions Blog</title>
     <link href="https://emdiscussions.github.io/emd-blog/feed.xml" rel="self" />
     <link href="https://emdiscussions.github.io/emd-blog" />
-    <updated>2026-01-24T14:41:05+00:00</updated>
+    <updated>2026-01-24T20:42:18+00:00</updated>
     <author>
         <name>EMDiscussions</name>
     </author>
@@ -104,8 +104,8 @@
 <div> </div>
 <div>When signing up for the service, I had to provide a recovery email address - I used a Gmail address, their verification email was received and verified.<br><br></div>
 <div>Now for first test - I created a label 'Social' for - guess what? - social media stuff. Next I logged into my Runbox account and sent a test message to 'myusername-social@port87.com'. Shortly after I received this auto-response from Port87:</div>
-<div> </div>
 <div>
+<blockquote>
 <div><span style="color: #2dc26b;"><em>This address has email screening enabled. Therefore, Port87 needs you to do a one-time verification that you're a real person. If you can see the blue-gray checkmark below, you're all set. If not, you can enable remote images in your email client or click the link to verify your address. Once verified, your message will be delivered.</em></span></div>
 <div> </div>
 <div><span style="color: #2dc26b;"><em>Verify Address</em></span></div>
@@ -114,6 +114,7 @@
 <div> </div>
 <div><span style="color: #2dc26b;"><em>Best,</em></span></div>
 <div><span style="color: #2dc26b;"><em>The Port87 Team</em></span></div>
+</blockquote>
 <div> </div>
 <div>Once I had verified my address, the original email then appeared in my Port87 account. So far so good!</div>
 <div> </div>
@@ -128,8 +129,8 @@
 <div>So that test also failed.</div>
 <div> </div>
 <div>One more try, this time sending from a Fastmail account. Luckier, this time, I got a response back from Port87, but it landed in the spam folder. At least I could mark it as 'not-spam' and then it all worked OK from then on. This is the auto-response received from Port87:</div>
-<div> </div>
 <div>
+<blockquote>
 <div><span style="color: #2dc26b;"><em>It looks like you've emailed my bare Port87 address, myusername@port87.com, which doesn't get through to me. In order to protect against unwanted messages, Port87 requires you to use a special address to email me. Please re-send your email to one of these addresses:</em></span></div>
 <div> </div>
 <div><span style="color: #2dc26b;"><em>myusername-friends@port87.com</em></span></div>
@@ -143,6 +144,7 @@
 <div> </div>
 <div><span style="color: #2dc26b;"><em>myusername-social@port87.com</em></span></div>
 <div><span style="color: #2dc26b;"><em>Please use this address if you are a contact on social media.</em></span></div>
+</blockquote>
 </div>
 <div> </div>
 <div>The labels for the first three email addresses (Friends/Inquiries/Other) are already in the system, the fourth label (Social) was created by myself, as stated previously.</div>
@@ -226,8 +228,11 @@
 </figure>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Once upon a time . . . well, around February 2012 (to narrow it down!), I signed up for a Zoho Mail Free account. A short time later, I guess I must have abandoned it and forgot all about it.<br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Fast forward to the present day, I've had a Zoho paid account for a few months, and I decided to move one of my domains over to this email provider. All proceeded according to plan - domain was verified, DNS records all propagated, and it just remained to create aliases for that domain.<span style="font-size: x-large;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><br><br></span></div>
-<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">First problem encountered: I created a few new aliases, but when I tried to add another specific alias to my account, I got this warning:<br><br></div>
-<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><span style="color: #2dc26b;"><em>"The email address you have entered belongs to a different deployment/region. Please contact support for assistance."</em></span><br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">First problem encountered: I created a few new aliases, but when I tried to add another specific alias to my account, I got this warning:</div>
+<blockquote>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><span style="color: #2dc26b;"><em>The email address you have entered belongs to a different deployment/region. Please contact support for assistance.</em></span></div>
+</blockquote>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">I looked in my password manager (I still have old databases saved) but could not find anywhere that I had used this domain with Zoho. So, I approached Zoho Support and they gave me a 'rough' indication of the username that the alias had been used. I made a guess at the username and got that right, then I was stumped (of course!) by the password - I made a few educated guesses, but not educated enough! So, the next step was the 'forgotten password?' option. Luckily, I still had the recovery address, and so got the new password - and finally got into the account - the account that I had set up in 2012!<br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Looking into the Admin Console, I saw that I had deleted the domain in question, but hadn't deleted the alias - and THAT was the big mistake on my part!<br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Second problem encountered: Now, to get rid of the alias. I tried to delete it, but Zoho wanted me to verify myself using 2FA authenticator code! Hmm, now this IS a problem!<br><br></div>
