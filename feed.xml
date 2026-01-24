@@ -3,12 +3,53 @@
     <title>EMDiscussions Blog</title>
     <link href="https://emdiscussions.github.io/emd-blog/feed.xml" rel="self" />
     <link href="https://emdiscussions.github.io/emd-blog" />
-    <updated>2026-01-24T09:24:03+00:00</updated>
+    <updated>2026-01-24T10:57:30+00:00</updated>
     <author>
         <name>EMDiscussions</name>
     </author>
     <id>https://emdiscussions.github.io/emd-blog</id>
 
+    <entry>
+        <title>Zoho Mail - a cautionary tale, with a happy ending?</title>
+        <author>
+            <name>EMDiscussions</name>
+        </author>
+        <link href="https://emdiscussions.github.io/emd-blog/zoho-mail-a-cautionary-tale-with-a-happy-ending.html"/>
+        <id>https://emdiscussions.github.io/emd-blog/zoho-mail-a-cautionary-tale-with-a-happy-ending.html</id>
+
+        <updated>2026-01-24T10:37:23+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Note: Originally posted in November 2025, now updated in January 2026. Hoping to leave a comment? Sorry, there aren’t any here. It’s not that your thoughts don’t matter – I just value my sanity more than moderating a comment section. If you wish to comment on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>Note: Originally posted in November 2025, now updated in January 2026.</em></p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://emdiscussions.github.io/emd-blog/media/posts/2//computer-01.png" alt="A serious looking caricature of myself, sitting at my computer, and focused on the screen in front of me." width="672" height="448" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emdiscussions.github.io/emd-blog/media/posts/2//responsive/computer-01-xs.png 640w ,https://emdiscussions.github.io/emd-blog/media/posts/2//responsive/computer-01-sm.png 768w ,https://emdiscussions.github.io/emd-blog/media/posts/2//responsive/computer-01-md.png 1024w ,https://emdiscussions.github.io/emd-blog/media/posts/2//responsive/computer-01-lg.png 1366w ,https://emdiscussions.github.io/emd-blog/media/posts/2//responsive/computer-01-xl.png 1600w ,https://emdiscussions.github.io/emd-blog/media/posts/2//responsive/computer-01-2xl.png 1920w"></figure>
+<figcaption>It was the best of times, it was the BLURST of times, etc.</figcaption>
+</figure>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Once upon a time . . . well, around February 2012 (to narrow it down!), I signed up for a Zoho Mail Free account. A short time later, I guess I must have abandoned it and forgot all about it.<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Fast forward to the present day, I've had a Zoho paid account for a few months, and I decided to move one of my domains over to this email provider. All proceeded according to plan - domain was verified, DNS records all propagated, and it just remained to create aliases for that domain.<span style="font-size: x-large;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><br><br></span></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">First problem encountered: I created a few new aliases, but when I tried to add another specific alias to my account, I got this warning:<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><em>"The email address you have entered belongs to a different deployment/region. Please contact support for assistance."</em><br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">I looked in my password manager (I still have old databases saved) but could not find anywhere that I had used this domain with Zoho. So, I approached Zoho Support and they gave me a 'rough' indication of the username that the alias had been used. I made a guess at the username and got that right, then I was stumped (of course!) by the password - I made a few educated guesses, but not educated enough! So, the next step was the 'forgotten password?' option. Luckily, I still had the recovery address, and so got the new password - and finally got into the account - the account that I had set up in 2012!<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Looking into the Admin Console, I saw that I had deleted the domain in question, but hadn't deleted the alias - and THAT was the big mistake on my part!<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Second problem encountered: Now, to get rid of the alias. I tried to delete it, but Zoho wanted me to verify myself using 2FA authenticator code! Hmm, now this IS a problem!<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Where would that code be? I must have saved it somewhere!<br>What phone was I using 13 years ago? I've slept a few times since then, and can't remember.<br>Would the code be in an authenticator app on that phone anyway? That's the million dollar question!<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">I was, more or less, resigned to the fact that I wouldn't be able to use that alias in my current Zoho account, but gave it one last try. After further experimentation, the problem was the lack of the authenticator code - whatever I tried, I came up against that brick wall.</div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><br>Delving further into the account settings, I then looked at the 'MFA Mode' and the 'Authenticator app' option. There was the 'secret key'! I copied that key into my phone authenticator app, and finally managed to complete the deletion of that alias!<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Going back into my current Zoho account, I then added that alias - success!<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><strong>The cautionary tale is: Never abandon a Zoho Mail account if you've attached any own domain aliases to it!</strong><br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">The happy ending?<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Well, apart from finally solving the alias problem, I now also had full access to that 2012 account - and that account has 40GB of storage (basic plan of 5GB plus 'Add-on allotted' of 35GB) and 25 licences!</div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"> </div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Plus, even though it's a free account, I am able to access my emails using IMAP/SMTP, via my choice of desktop and phone apps.<br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Now, I need to figure out a use for that old account!</div>
+<p><em>Hoping to leave a comment? Sorry, there aren’t any here. It’s not that your thoughts don’t matter – I just value my sanity more than moderating a comment section. If you wish to comment on any of my posts, you may comment via my <a href="https://mastodon.social/@EMDiscussions" target="_blank" rel="noopener noreferrer">Mastodon</a> account.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Setting up my EMDiscussions Blog</title>
         <author>
