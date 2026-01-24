@@ -56,15 +56,15 @@
             "id": "https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html",
             "url": "https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html",
             "title": "Setting up my EMDiscussions Blog",
-            "summary": "Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog. So, here it is! I'll be looking into copying my already existing posts over to this blog as soon as I&hellip;",
-            "content_html": "<p>Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog.</p>\n<p>So, here it is!</p>\n<p>I'll be looking into copying my already existing posts over to this blog as soon as I get a \"round tuit\"!</p>",
+            "summary": "Seven grains of the hour's glass later . . . Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog. So, here it is! I'll be looking into copying my already&hellip;",
+            "content_html": "<figure class=\"post__image\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://emdiscussions.github.io/emd-blog/media/posts/1/pen-and-pad.png\" alt=\"A serious looking caricature of myself, sitting at my desk with pen and notepad at the ready, wondering what to write.\" width=\"1536\" height=\"1024\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/pen-and-pad-xs.png 640w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/pen-and-pad-sm.png 768w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/pen-and-pad-md.png 1024w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/pen-and-pad-lg.png 1366w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/pen-and-pad-xl.png 1600w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/pen-and-pad-2xl.png 1920w\"></figure>\n<figcaption>Seven grains of the hour's glass later . . .</figcaption>\n</figure>\n<p>Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog.</p>\n<p>So, here it is!</p>\n<p>I'll be looking into copying my already existing posts over to this blog as soon as I get a \"round tuit\"!</p>",
             "author": {
                 "name": "EMDiscussions"
             },
             "tags": [
             ],
             "date_published": "2026-01-24T09:01:45+00:00",
-            "date_modified": "2026-01-24T11:05:27+00:00"
+            "date_modified": "2026-01-24T11:58:39+00:00"
         }
     ]
 }
