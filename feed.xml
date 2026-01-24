@@ -3,12 +3,104 @@
     <title>EMDiscussions Blog</title>
     <link href="https://emdiscussions.github.io/emd-blog/feed.xml" rel="self" />
     <link href="https://emdiscussions.github.io/emd-blog" />
-    <updated>2026-01-24T11:19:47+00:00</updated>
+    <updated>2026-01-24T11:39:44+00:00</updated>
     <author>
         <name>EMDiscussions</name>
     </author>
     <id>https://emdiscussions.github.io/emd-blog</id>
 
+    <entry>
+        <title>Port87 - label powered email</title>
+        <author>
+            <name>EMDiscussions</name>
+        </author>
+        <link href="https://emdiscussions.github.io/emd-blog/port87-label-powered-email.html"/>
+        <id>https://emdiscussions.github.io/emd-blog/port87-label-powered-email.html</id>
+
+        <updated>2026-01-24T11:22:52+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Note: Originally posted in September 2025, now updated in January 2026. Hoping to leave a comment? Sorry, there aren’t any here. It’s not that your thoughts don’t matter – I just value my sanity more than moderating a comment section. If you wish to comment on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>Note: Originally posted in September 2025, now updated in January 2026.</em></p>
+<figure class="post__image"><img loading="lazy" src="https://emdiscussions.github.io/emd-blog/media/posts/5//computer-01.png" alt="A serious looking caricature of myself, sitting at my computer, and focused on the screen in front of me." width="672" height="448" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emdiscussions.github.io/emd-blog/media/posts/5//responsive/computer-01-xs.png 640w ,https://emdiscussions.github.io/emd-blog/media/posts/5//responsive/computer-01-sm.png 768w ,https://emdiscussions.github.io/emd-blog/media/posts/5//responsive/computer-01-md.png 1024w ,https://emdiscussions.github.io/emd-blog/media/posts/5//responsive/computer-01-lg.png 1366w ,https://emdiscussions.github.io/emd-blog/media/posts/5//responsive/computer-01-xl.png 1600w ,https://emdiscussions.github.io/emd-blog/media/posts/5//responsive/computer-01-2xl.png 1920w">
+<figcaption>Any port in a storm?</figcaption>
+</figure>
+<div>It was recently announced that Port87 was out of beta. I had heard about the service previously but had not signed up to test it.<br><br></div>
+<div>Here's a link to their website, which will explain their service much better than I could:</div>
+<div><br><a href="https://port87.com/" target="_blank" rel="noopener">Port87 - A new kind of email<br></a></div>
+<div> </div>
+<div>Today, I signed up for the free service - Basic Mail - which has 500MB of storage. Note that only covers receiving of emails. If you want to send emails, get more storage, or use your own domain(s), it's at an additional cost. </div>
+<div> </div>
+<div>Here's the link to their pricing:<br><br></div>
+<div><a href="https://port87.com/pricing" target="_blank" rel="noopener">Pricing - Port87<br></a></div>
+<div> </div>
+<div>When signing up for the service, I had to provide a recovery email address - I used a Gmail address, their verification email was received and verified.<br><br></div>
+<div>Now for first test - I created a label 'Social' for - guess what? - social media stuff. Next I logged into my Runbox account and sent a test message to 'myusername-social@port87.com'. Shortly after I received this auto-response from Port87:</div>
+<div> </div>
+<div>
+<div><span style="color: #2dc26b;"><em>This address has email screening enabled. Therefore, Port87 needs you to do a one-time verification that you're a real person. If you can see the blue-gray checkmark below, you're all set. If not, you can enable remote images in your email client or click the link to verify your address. Once verified, your message will be delivered.</em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>Verify Address</em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>Port87 uses this verification process to prevent unwanted mail from getting to our users. Until you complete this verification, your message will be on hold. If you don't complete this verification within 60 days, your message will be deleted. We apologize for the inconvenience and appreciate your understanding.</em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>Best,</em></span></div>
+<div><span style="color: #2dc26b;"><em>The Port87 Team</em></span></div>
+<div> </div>
+<div>Once I had verified my address, the original email then appeared in my Port87 account. So far so good!</div>
+<div> </div>
+<div>The next test was sending an email to what Port87 calls my 'bare' address - 'myusername@port87.com'. I would prefer to call it my 'default' address, but anyway . . .</div>
+<div> </div>
+<div>This time, sending from the Gmail account that is my recovery email address for my Port87 account. This is where I encountered the first problem. Although I had received the verification email from Port87 when setting up the account, this time I received nothing - nothing in my Gmail inbox or spam folder! That was surprising to me that Gmail did not flag the first email from Port87, and then just silently dropped the second one. Gmail appear to be classing the second email as spam.</div>
+<div> </div>
+<div>So that test failed.</div>
+<div> </div>
+<div>Tried the same thing again, but sending from an email address hosted by MXroute. Again, and the same as Gmail, I got nothing back. It seems that MXroute had dropped the email.</div>
+<div> </div>
+<div>So that test also failed.</div>
+<div> </div>
+<div>One more try, this time sending from a Fastmail account. Luckier, this time, I got a response back from Port87, but it landed in the spam folder. At least I could mark it as 'not-spam' and then it all worked OK from then on. This is the auto-response received from Port87:</div>
+<div> </div>
+<div>
+<div><span style="color: #2dc26b;"><em>It looks like you've emailed my bare Port87 address, myusername@port87.com, which doesn't get through to me. In order to protect against unwanted messages, Port87 requires you to use a special address to email me. Please re-send your email to one of these addresses:</em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>myusername-friends@port87.com</em></span></div>
+<div><span style="color: #2dc26b;"><em>Please use this address if you are a friend or family. </em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>myusername-inquiries@port87.com</em></span></div>
+<div><span style="color: #2dc26b;"><em>Please use this address if you have a question or request for me. </em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>myusername-other@port87.com</em></span></div>
+<div><span style="color: #2dc26b;"><em>Use this address for all other reasons. </em></span></div>
+<div> </div>
+<div><span style="color: #2dc26b;"><em>myusername-social@port87.com</em></span></div>
+<div><span style="color: #2dc26b;"><em>Please use this address if you are a contact on social media.</em></span></div>
+</div>
+<div> </div>
+<div>The labels for the first three email addresses (Friends/Inquiries/Other) are already in the system, the fourth label (Social) was created by myself, as stated previously.</div>
+<div> </div>
+<div>I've since whitelisted the port87.com domain within my Gmail, MXroute and Fastmail accounts. I've not re-tested those accounts, although that is the logical next step.</div>
+</div>
+<div>
+<div> </div>
+</div>
+<div>Early days, first steps, etc.</div>
+<div> </div>
+<div><em><strong>Update - November 14th 2025:</strong></em></div>
+<div> </div>
+<div>I received a message today from Hunter Perrin, the creator of Port 87 - he had seen my blog entry. He advised that, at the time of my testing the product, there was a bug in Port87 preventing the DKIM signing of the auto-responses to bare address emails. He has since fixed the bug, and so it should be working as expected.</div>
+<div> </div>
+<div>I have re-tested again - this time sending from Gmail and Zoho Mail accounts. The verification emails were received as expected in each account.</div>
+<div> </div>
+<div>Result = success!</div>
+<p><em>Hoping to leave a comment? Sorry, there aren’t any here. It’s not that your thoughts don’t matter – I just value my sanity more than moderating a comment section. If you wish to comment on any of my posts, you may comment via my <a href="https://mastodon.social/@EMDiscussions" target="_blank" rel="noopener noreferrer">Mastodon</a> account.</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>I asked ChatGPT to create a Google Mail Script</title>
         <author>
@@ -26,7 +118,7 @@
         <content type="html">
             <![CDATA[
                 <p><em>Note: Originally posted in August 2025, now updated in January 2026.</em></p>
-<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://emdiscussions.github.io/emd-blog/media/posts/4//computer-01.png" alt="A serious looking caricature of myself, sitting at my computer, and focused on the screen in front of me." width="672" height="448" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emdiscussions.github.io/emd-blog/media/posts/4//responsive/computer-01-xs.png 640w ,https://emdiscussions.github.io/emd-blog/media/posts/4//responsive/computer-01-sm.png 768w ,https://emdiscussions.github.io/emd-blog/media/posts/4//responsive/computer-01-md.png 1024w ,https://emdiscussions.github.io/emd-blog/media/posts/4//responsive/computer-01-lg.png 1366w ,https://emdiscussions.github.io/emd-blog/media/posts/4//responsive/computer-01-xl.png 1600w ,https://emdiscussions.github.io/emd-blog/media/posts/4//responsive/computer-01-2xl.png 1920w"></figure>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://emdiscussions.github.io/emd-blog/media/posts/4/computer-02.png" alt="A serious looking caricature of myself, sitting at my computer, and focused on the screen in front of me." width="672" height="448" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emdiscussions.github.io/emd-blog/media/posts/4/responsive/computer-02-xs.png 640w ,https://emdiscussions.github.io/emd-blog/media/posts/4/responsive/computer-02-sm.png 768w ,https://emdiscussions.github.io/emd-blog/media/posts/4/responsive/computer-02-md.png 1024w ,https://emdiscussions.github.io/emd-blog/media/posts/4/responsive/computer-02-lg.png 1366w ,https://emdiscussions.github.io/emd-blog/media/posts/4/responsive/computer-02-xl.png 1600w ,https://emdiscussions.github.io/emd-blog/media/posts/4/responsive/computer-02-2xl.png 1920w"></figure>
 <figcaption>Next question: What is the relationship between E=mc² and MC Hammer?</figcaption>
 </figure>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">
@@ -71,7 +163,7 @@
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Once upon a time . . . well, around February 2012 (to narrow it down!), I signed up for a Zoho Mail Free account. A short time later, I guess I must have abandoned it and forgot all about it.<br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Fast forward to the present day, I've had a Zoho paid account for a few months, and I decided to move one of my domains over to this email provider. All proceeded according to plan - domain was verified, DNS records all propagated, and it just remained to create aliases for that domain.<span style="font-size: x-large;" data-keep-original-tag="false" data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><br><br></span></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">First problem encountered: I created a few new aliases, but when I tried to add another specific alias to my account, I got this warning:<br><br></div>
-<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><em>"The email address you have entered belongs to a different deployment/region. Please contact support for assistance."</em><br><br></div>
+<div data-original-attrs="{&quot;style&quot;:&quot;&quot;}"><span style="color: #2dc26b;"><em>"The email address you have entered belongs to a different deployment/region. Please contact support for assistance."</em></span><br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">I looked in my password manager (I still have old databases saved) but could not find anywhere that I had used this domain with Zoho. So, I approached Zoho Support and they gave me a 'rough' indication of the username that the alias had been used. I made a guess at the username and got that right, then I was stumped (of course!) by the password - I made a few educated guesses, but not educated enough! So, the next step was the 'forgotten password?' option. Luckily, I still had the recovery address, and so got the new password - and finally got into the account - the account that I had set up in 2012!<br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Looking into the Admin Console, I saw that I had deleted the domain in question, but hadn't deleted the alias - and THAT was the big mistake on my part!<br><br></div>
 <div data-original-attrs="{&quot;style&quot;:&quot;&quot;}">Second problem encountered: Now, to get rid of the alias. I tried to delete it, but Zoho wanted me to verify myself using 2FA authenticator code! Hmm, now this IS a problem!<br><br></div>
