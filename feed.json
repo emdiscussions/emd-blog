@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://emdiscussions.github.io/emd-blog/test-post.html",
-            "url": "https://emdiscussions.github.io/emd-blog/test-post.html",
-            "title": "Test Post",
-            "summary": "This is the first post, to test 'stuff' is working, hopefully as intended!",
-            "content_html": "<p>This is the first post, to test 'stuff' is working, hopefully as intended!</p>\n<p> </p>",
+            "id": "https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html",
+            "url": "https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html",
+            "title": "Setting up my EMDiscussions Blog",
+            "summary": "Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog. So, here it is! I'll be looking into copying my already existing posts over to this blog very soon.",
+            "content_html": "<p>Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog.</p>\n<p>So, here it is!</p>\n<p>I'll be looking into copying my already existing posts over to this blog very soon.</p>\n<p> </p>",
             "author": {
                 "name": "EMDiscussions"
             },
             "tags": [
             ],
             "date_published": "2026-01-24T09:01:45+00:00",
-            "date_modified": "2026-01-24T09:01:45+00:00"
+            "date_modified": "2026-01-24T09:24:03+00:00"
         }
     ]
 }

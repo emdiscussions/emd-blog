@@ -3,29 +3,31 @@
     <title>EMDiscussions Blog</title>
     <link href="https://emdiscussions.github.io/emd-blog/feed.xml" rel="self" />
     <link href="https://emdiscussions.github.io/emd-blog" />
-    <updated>2026-01-24T09:01:45+00:00</updated>
+    <updated>2026-01-24T09:24:03+00:00</updated>
     <author>
         <name>EMDiscussions</name>
     </author>
     <id>https://emdiscussions.github.io/emd-blog</id>
 
     <entry>
-        <title>Test Post</title>
+        <title>Setting up my EMDiscussions Blog</title>
         <author>
             <name>EMDiscussions</name>
         </author>
-        <link href="https://emdiscussions.github.io/emd-blog/test-post.html"/>
-        <id>https://emdiscussions.github.io/emd-blog/test-post.html</id>
+        <link href="https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html"/>
+        <id>https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html</id>
 
         <updated>2026-01-24T09:01:45+00:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is the first post, to test 'stuff' is working, hopefully as intended!
+                    Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog. So, here it is! I'll be looking into copying my already existing posts over to this blog very soon.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is the first post, to test 'stuff' is working, hopefully as intended!</p>
+                <p>Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog.</p>
+<p>So, here it is!</p>
+<p>I'll be looking into copying my already existing posts over to this blog very soon.</p>
 <p> </p>
             ]]>
         </content>
