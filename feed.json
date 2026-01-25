@@ -63,9 +63,9 @@
             "date_modified": "2026-01-24T20:42:18+00:00"
         },
         {
-            "id": "https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html",
-            "url": "https://emdiscussions.github.io/emd-blog/setting-up-my-emdiscussions-blog.html",
-            "title": "Setting up my EMDiscussions Blog",
+            "id": "https://emdiscussions.github.io/emd-blog/setting-up-the-emdiscussions-blog.html",
+            "url": "https://emdiscussions.github.io/emd-blog/setting-up-the-emdiscussions-blog.html",
+            "title": "Setting up the EMDiscussions Blog",
             "content_html": "<figure class=\"post__image\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://emdiscussions.github.io/emd-blog/media/posts/1/waltons-theme.png\" alt=\"Based on a 'The Waltons' theme, a serious looking caricature of myself, sitting at a table, and - under oil lamp light - focused on the notepad in front of me.\" width=\"1536\" height=\"1024\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/waltons-theme-xs.png 640w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/waltons-theme-sm.png 768w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/waltons-theme-md.png 1024w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/waltons-theme-lg.png 1366w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/waltons-theme-xl.png 1600w ,https://emdiscussions.github.io/emd-blog/media/posts/1/responsive/waltons-theme-2xl.png 1920w\"></figure>\n<figcaption>Seven grains of the hour's glass later . . .</figcaption>\n</figure>\n<p>Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog.</p>\n<p>So, here it is!</p>\n<p>I'll be looking into copying my already existing posts over to this blog as soon as I get a \"round tuit\"!</p>",
             "author": {
                 "name": "EMDiscussions"
@@ -73,7 +73,7 @@
             "tags": [
             ],
             "date_published": "2026-01-24T09:01:45+00:00",
-            "date_modified": "2026-01-24T18:09:33+00:00"
+            "date_modified": "2026-01-25T10:44:56+00:00"
         }
     ]
 }
