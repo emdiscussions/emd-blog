@@ -5,6 +5,38 @@
 <loc>https://emdiscussions.github.io/emd-blog/</loc>
 </url>
 <url>
+<loc>https://emdiscussions.github.io/emd-blog/atomic-mail-my-thoughts.html</loc>
+<lastmod>2026-01-29T09:38:30+00:00</lastmod>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8//computer-01.png</image:loc>
+<image:title><![CDATA[A serious looking caricature of myself, sitting at my computer, and focused on the screen in front of me.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8/atomic-01.png</image:loc>
+<image:title><![CDATA[Screencap of Atomic Mail setup information.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8/atomic-02.png</image:loc>
+<image:title><![CDATA[Screencap of Atomic Mail setup information.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8/atomic-03.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8/atomic-04.png</image:loc>
+<image:title><![CDATA[Screencap of Atomic Mail setup information.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8/atomic-05.png</image:loc>
+<image:title><![CDATA[Screencap of Atomic Mail setup information.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emdiscussions.github.io/emd-blog/media/posts/8/atomic-06.png</image:loc>
+<image:title><![CDATA[Screencap of Atomic Mail setup information.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://emdiscussions.github.io/emd-blog/i-asked-chatgpt-to-create-a-google-mail-script.html</loc>
 <lastmod>2026-01-24T11:39:28+00:00</lastmod>
 <image:image>
@@ -17,6 +49,9 @@
 </image:image>
 </url>
 <url>
+<loc>https://emdiscussions.github.io/emd-blog/page/2/</loc>
+</url>
+<url>
 <loc>https://emdiscussions.github.io/emd-blog/port87-label-powered-email.html</loc>
 <lastmod>2026-01-24T20:40:16+00:00</lastmod>
 <image:image>
@@ -26,7 +61,7 @@
 </url>
 <url>
 <loc>https://emdiscussions.github.io/emd-blog/setting-up-the-emdiscussions-blog.html</loc>
-<lastmod>2026-01-25T10:44:56+00:00</lastmod>
+<lastmod>2026-01-29T09:18:59+00:00</lastmod>
 <image:image>
 <image:loc>https://emdiscussions.github.io/emd-blog/media/posts/1/waltons-theme.png</image:loc>
 <image:title><![CDATA[Based on a 'The Waltons' theme, a serious looking caricature of myself, sitting at a table, and - under oil lamp light - focused on the notepad in front of me.]]></image:title>
